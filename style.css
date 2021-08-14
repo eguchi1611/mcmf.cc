@@ -1,4 +1,24 @@
-.logo {
-  font-family: "Russo One";
-  color: red;
+.catchcopy {
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  text-shadow: white 0px 0px 10px;
+}
+
+.russo {
+  font-family: "Russo One", sans-serif;
+}
+
+.serif {
+  font-family: "Noto Serif JP", serif;
+}
+
+.white-shadow {
+  text-shadow: white 2px 2px 0px;
+}
+
+.share-link {
+  bottom: 0;
+  right: 0;
 }
